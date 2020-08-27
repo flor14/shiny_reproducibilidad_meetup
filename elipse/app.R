@@ -1,3 +1,4 @@
+# Example from the book mastering-shiny.org / Ejemplo modificado del libro mastering-shiny.org
 library(shiny)
 
 ui <- function(request){fluidPage(
